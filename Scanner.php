@@ -22,7 +22,6 @@
 /_==__==========__==_ooo__ooo=_/'   /___________,"
 
 
-     Changing rights will just prove that you're a script kiddie.
  ╔═══════════════════════════ ஜ۩☆۩ஜ ══════════════════════════╗
  .·★·.·´¯`·.·★·..    Coded By Nasr Bechir    ..·★·.·´¯`·.·★·.
  ╚═══════════════════════════ ஜ۩☆۩ஜ ══════════════════════════╝
@@ -53,13 +52,77 @@ $$$/    $$$ |$$ |            $$ | $/  $$ |$$ |$$ |  $$ |$$ |      $$    $$/ $$  
 $$/      $$/ $$/             $$/      $$/ $$/ $$/   $$/ $$/        $$$$$$/   $$$$$$$/  $$$$$$$/ $$/   $$/ $$/   $$/  $$$$$$$/ $$/             
                                                                                                                                               
                                                                                                                                                                                                                                                                                                                                                    
-      Wordpress Scanner V1 By Nasr Bechoir
+      Wordpress Scanner V1 By Nasr Bechir
 ");
 
 
 
-eval(base64_decode('aWYoISRhcmd2WzFdKXsNCiAgICAgZGllKCJ1c2FnZSAkYXJndlswXSBodHRwOi8vd3d3LnNpdGUvd29yZHByZXNzLmNvbSIpOw0KICAgfQ0KOw0KICAgJHNpdGU9ICRhcmd2WzFdOw0KICAgICAgICBlY2hvICJcblxuWytdWytdU2Nhbm5pbmcgOiAkc2l0ZSIuJ1srXVsrXSc7DQokY2ggPSBjdXJsX2luaXQoKTsNCmN1cmxfc2V0b3B0KCRjaCwgQ1VSTE9QVF9VUkwsICIkc2l0ZSIpOw0KY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX0hFQURFUiwgMSk7DQpjdXJsX3NldG9wdCgkY2gsIENVUkxPUFRfUkVUVVJOVFJBTlNGRVIsIDEpOw0KY3VybF9zZXRvcHQoJGNoLCBDVVJMT1BUX1VTRVJBR0VOVCwgIk1vemlsbGEvNC4wIChjb21wYXRpYmxlOyBNU0lFIDYuMDsgV2luZG93cyBOVCA1LjApIik7DQokZ2V0ID0gY3VybF9leGVjKCRjaCk7DQpjdXJsX2Nsb3NlKCRjaCk7DQogICAgaWYocHJlZ19tYXRjaCgiI1dvcmRQcmVzcyAoLio/KS8+IyIsICRnZXQsICR2ZXJzaW9uKSl7DQogICAgJHN0ciA9IHN0cl9yZXBsYWNlKCcvPicsICIiLCAkdmVyc2lvblswXSk7DQogICAgJHN0ciA9IHN0cl9yZXBsYWNlKCciJywgIiIsICRzdHIpOw0KICAgDQogICAgJHVzZXJzID0gQGZpbGVfZ2V0X2NvbnRlbnRzKCIkc2l0ZS8/YXV0aG9yPTEiKTsNCiAgICBwcmVnX21hdGNoKCcvPHRpdGxlPiguKj8pPFwvdGl0bGU+L3NpJywkdXNlcnMsJHVzZXIpOw0KICAgICR3cHVzZXIgPSBleHBsb2RlKCd8JywkdXNlclsxXSk7DQplY2hvICJcbiBVc2VyIDogIi4kd3B1c2VyWzBdOyB9DQoNCg0KZWNobyAiXG4gVmVyc2lvbiA6ICIuJHN0cjsgDQogDQogDQogJGNvbnRlbnQgPSBjVVJMKCRzaXRlKTsNCiANCiANCiANCiAJcHJlZ19tYXRjaF9hbGwoIi93cC1jb250ZW50XC90aGVtZXNcLyguKj8pXC9zdHlsZVwuY3NzLyIsICRjb250ZW50LCAkcmV0XzEpOw0KCQkJCXByZWdfbWF0Y2hfYWxsKCIvXDxtZXRhIG5hbWU9XCJnZW5lcmF0b3JcIiBjb250ZW50PVwiV29yZFByZXNzICguKj8pXCIgXC9cPi8iLCAkY29udGVudCwgJHJldF8zKTsNCgkJCQkNCgkJCQllY2hvICJcbiBUaGVtZSA6ICIudHJpbSgkcmV0XzFbMV1bMF0pIDsNCgkJCQkJcHJlZ19tYXRjaF9hbGwoIi93cC1jb250ZW50XC9wbHVnaW5zXC8oLio/KVwvLyIsICRjb250ZW50LCAkbWF0Y2gpOw0KCQkJCWZvcmVhY2goJG1hdGNoWzFdIGFzICRibHVnaW4pIA0KCQkJCXsNCgkJCQkJJFB1cmwgPSAkc2l0ZS4gIi93cC1jb250ZW50L3BsdWdpbnMvIiAuJGJsdWdpbjsNCgkJCQkJaWYoIWlzc2V0KCRBcnJbJGJsdWdpbl0pIGFuZCAhaXNfbnVsbCgkYmx1Z2luKSBhbmQgIWVtcHR5KCRibHVnaW4pKSANCgkJCQkJeyANCgkJCQkJZWNobyAiICBcbiAgLT5QbHVnaW4gOiIuJGJsdWdpbjsNCgkJCQkJfQ0KCQkJCQkkbkFycltdID0gJGJsdWdpbjsNCgkJCQkJJEFyclskYmx1Z2luXSA9IHRydWU7DQoJCQkJCQ0KCQkJCX0NCgkJCQkNCiBmdW5jdGlvbiBjVVJMKCR1cmwpIA0KCXsNCgkJJHpjVVJMID0gY3VybF9pbml0KCk7DQoJCWN1cmxfc2V0b3B0KCR6Y1VSTCwgQ1VSTE9QVF9IRUFERVIsIDEpOw0KCQljdXJsX3NldG9wdCgkemNVUkwsIENVUkxPUFRfVElNRU9VVCwgMTUpOw0KCQljdXJsX3NldG9wdCgkemNVUkwsIENVUkxPUFRfUkVUVVJOVFJBTlNGRVIsIDEpOw0KCQljdXJsX3NldG9wdCgkemNVUkwsIENVUkxPUFRfU1NMX1ZFUklGWVBFRVIsIDApOw0KCQljdXJsX3NldG9wdCgkemNVUkwsIENVUkxPUFRfVVJMLCAkdXJsKTsNCgkJY3VybF9zZXRvcHQoJHpjVVJMLCBDVVJMT1BUX1VTRVJBR0VOVCwgIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDUuMTsgcnY6Ny4wLjEpIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNy4wLjEiKTsNCgkJY3VybF9zZXRvcHQoJHpjVVJMLCBDVVJMT1BUX0ZPTExPV0xPQ0FUSU9OLCAxKTsNCgkJJHJlc3VsdCA9IGN1cmxfZXhlYygkemNVUkwpOw0KCQlpZigkcmVzdWx0KSANCgkJew0KCQkJcmV0dXJuICRyZXN1bHQ7DQoJCQkNCgkJfQ0KCX0NCiANCiA='));
+if(!$argv[1]){
+     die("usage $argv[0] http://www.sitewordpress.com");
+   }
+;
+   $site= $argv[1];
+        echo "\n\n[+][+]Scanning : $site".'[+][+]';
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, "$site");
+curl_setopt($ch, CURLOPT_HEADER, 1);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+curl_setopt($ch, CURLOPT_USERAGENT, "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)");
+$get = curl_exec($ch);
+curl_close($ch);
+    if(preg_match("#WordPress (.*?)/>#", $get, $version)){
+    $str = str_replace('/>', "", $version[0]);
+    $str = str_replace('"', "", $str);
+   
+    $users = @file_get_contents("$site/?author=1");
+    preg_match('/<title>(.*?)<\/title>/si',$users,$user);
+    $wpuser = explode('|',$user[1]);
+echo "\n User : ".$wpuser[0]; }
 
+
+echo "\n Version : ".$str; 
+ 
+ 
+ $content = cURL($site);
+ 
+ 
+ 
+ 	preg_match_all("/wp-content\/themes\/(.*?)\/style\.css/", $content, $ret_1);
+				preg_match_all("/\<meta name=\"generator\" content=\"WordPress (.*?)\" \/\>/", $content, $ret_3);
+				
+				echo "\n Theme : ".trim($ret_1[1][0]) ;
+					preg_match_all("/wp-content\/plugins\/(.*?)\//", $content, $match);
+				foreach($match[1] as $blugin) 
+				{
+					$Purl = $site. "/wp-content/plugins/" .$blugin;
+					if(!isset($Arr[$blugin]) and !is_null($blugin) and !empty($blugin)) 
+					{ 
+					echo "  \n  ->Plugin :".$blugin;
+					}
+					$nArr[] = $blugin;
+					$Arr[$blugin] = true;
+					
+				}
+				
+ function cURL($url) 
+	{
+		$zcURL = curl_init();
+		curl_setopt($zcURL, CURLOPT_HEADER, 1);
+		curl_setopt($zcURL, CURLOPT_TIMEOUT, 15);
+		curl_setopt($zcURL, CURLOPT_RETURNTRANSFER, 1);
+		curl_setopt($zcURL, CURLOPT_SSL_VERIFYPEER, 0);
+		curl_setopt($zcURL, CURLOPT_URL, $url);
+		curl_setopt($zcURL, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 5.1; rv:7.0.1) Gecko/20100101 Firefox/7.0.1");
+		curl_setopt($zcURL, CURLOPT_FOLLOWLOCATION, 1);
+		$result = curl_exec($zcURL);
+		if($result) 
+		{
+			return $result;
+			
+		}
+	}
+ 
+ 
 
 //http://www.valdenzanews.it 
 ?>

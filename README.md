@@ -4,7 +4,7 @@
 
 Install
 ```bash
-git clone https://github.com/Wordpress-Scanner-v1/Wordpress-Scanner-v1.git
+git clone https://github.com/nasrbechir/Wordpress-Scanner-v1
 cd Wordpress-Scanner-v1
 ```
 
